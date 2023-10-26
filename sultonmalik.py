@@ -21,7 +21,6 @@ class Aviakompaniya:
         return f"{self.nomi} ({self.founded_year}-yilda o'z faoliyatini boshladi)"
 
 
-
 aeroport1 = Aeroport("Toshkent Xalqaro Aeroporti", "Toshkent, O'zbekiston")
 aviakompaniya1 = Aviakompaniya("Uzbekistan Airways", 1992)
 aviakompaniya2 = Aviakompaniya("Turkish Airlines", 1933)

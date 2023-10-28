@@ -22,6 +22,7 @@ class Aviakompaniya:
 
 
 
+
 aeroport1 = Aeroport("Toshkent Xalqaro Aeroporti", "Toshkent, O'zbekiston")
 aviakompaniya1 = Aviakompaniya("Uzbekistan Airways", 1992)
 aviakompaniya2 = Aviakompaniya("Turkish Airlines", 1933)

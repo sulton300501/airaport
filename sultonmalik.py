@@ -11,6 +11,7 @@ class Aeroport:
     
     
     
+    
     def chiqar(self):
         print(f"{self.nomi} Aeroportining aviakompaniyalari:")
         for aviakompaniya in self.aviakompaniyalar:

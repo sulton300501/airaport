@@ -7,7 +7,7 @@ class Aeroport:
     def qoshish(self, aviakompaniya):
         self.aviakompaniyalar.append(aviakompaniya)
 
-    
+ 
 
     
     def chiqar(self):

@@ -8,6 +8,7 @@ class Aeroport:
         self.aviakompaniyalar.append(aviakompaniya)
 
 
+    
 
 
     def chiqar(self):
